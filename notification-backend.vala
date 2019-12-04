@@ -1,6 +1,6 @@
 /**
- * Regolith notification daemon 
- **/
+ * Sample notification daemon 
+ */
  
 [DBus (name = "org.freedesktop.Notifications")]
 public class DemoServer : Object {
